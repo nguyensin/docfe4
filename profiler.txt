@@ -1,1 +1,1 @@
-https://expose.sportb2.net/setting?agentId=14
+{ "urlSetting": "https://expose.sportb2.net/setting?agentId=14"}
